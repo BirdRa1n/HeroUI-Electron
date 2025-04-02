@@ -1,0 +1,12 @@
+appId: com.example.heroui
+productName: HeroUI
+copyright: Copyright © 2025 BirdRa1n
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
